@@ -38,19 +38,12 @@ It focuses on:
 ## Key Metrics
 
 - Calls Answered
-
 - Actual vs Forecast %
-
 - Abandoned %
-
 - Average Handle Time (AHT)
-
 - Number of Surveys
-
 - NPS Score
-
 - CSAT Score
-
 - Transfer %
 
 
@@ -72,13 +65,9 @@ Provides a high-level overview of call centre performance.
 Includes:
 
 - KPI summary cards with previous year comparison
-
 - Daily performance trends
-
 - Department-level call distribution
-
 - AHT vs Abandonment analysis
-
 - Dynamic filters (Year, Month, Department)
 
 
@@ -96,9 +85,7 @@ Allows deeper analysis of a selected day at an interval level.
 Includes:
 
 - Calls handled by interval
-
 - AHT and Abandonment trends throughout the day
-
 - Tabular breakdown for detailed inspection
 
 
@@ -122,11 +109,8 @@ Designed for performance monitoring and coaching.
 Includes:
 
 - Agent and Team Manager filters
-
 - KPI comparison (current vs previous year)
-
 - AHT, NPS, CSAT trends over time
-
 - Dynamic “last N months” view
 
 
@@ -150,11 +134,8 @@ The dashboard follows a star schema approach with separate fact and dimension ta
 **Fact Tables**
 
 - FactCalls
-
 - FactAbandoned
-
 - FactForecast
-
 - FactSurveys
 
 
@@ -162,11 +143,8 @@ The dashboard follows a star schema approach with separate fact and dimension ta
 **Dimension Tables**
 
 - Agents
-
 - Departments
-
 - Calendar
-
 - Time
 
 
@@ -182,11 +160,8 @@ This structure enables efficient filtering, scalability, and clean DAX calculati
 ## Tools & Technologies
 
 - Power BI
-
 - Power Query (Data Transformation)
-
 - DAX (Measures & Calculations)
-
 - Excel / CSV (Simulated Data Sources)
 
 
@@ -198,15 +173,10 @@ This structure enables efficient filtering, scalability, and clean DAX calculati
 ## Key Features
 
 - Interactive slicers for flexible analysis
-
 - Drill-through functionality for detailed exploration
-
 - Year-over-year comparisons
-
 - Dynamic KPI cards with contextual insights
-
 - Clean and structured data model
-
 - User-friendly dashboard layout
 
 
@@ -250,13 +220,9 @@ This structure enables efficient filtering, scalability, and clean DAX calculati
 ## How to Use
 
 1. Download the `.pbix` file from this repository
-
 2. Open it in Power BI Desktop
-
 3. Use slicers to filter by time, department, agent, or team
-
 4. Click on a specific date to drill through into interval-level analysis
-
 5. Explore agent performance using the Agent View
 
 
@@ -270,13 +236,9 @@ This structure enables efficient filtering, scalability, and clean DAX calculati
 Through this project, I strengthened my skills in:
 
 - Designing a scalable data model in Power BI
-
 - Writing DAX measures for operational KPIs
-
 - Implementing drill-through navigation
-
 - Building dynamic and interactive dashboards
-
 - Translating business requirements into analytical solutions
 
 
@@ -288,9 +250,7 @@ Through this project, I strengthened my skills in:
 ## Limitations
 
 - The dataset used in this project is simulated
-
 - The business context and branding are fictional
-
 - Metrics are designed for demonstration purposes and may not reflect real-world complexities
 
 
@@ -302,14 +262,4 @@ Through this project, I strengthened my skills in:
 ## Author
 
 Rishabh Dua
-
-
-
----
-
-
-
-## Note
-
-This project is part of my analytics portfolio and is intended to showcase my skills in Power BI, data modelling, and business intelligence. It does not represent any real company or dataset.
 
