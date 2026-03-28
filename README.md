@@ -25,11 +25,8 @@ The goal of this project is to demonstrate how data analytics can be used to mon
 It focuses on:
 
 - Tracking service demand vs forecast
-
 - Identifying inefficiencies in handling time and abandonment
-
 - Enabling drill-down analysis for deeper investigation
-
 - Supporting agent and team performance evaluation
 
 
