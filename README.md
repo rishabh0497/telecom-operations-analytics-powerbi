@@ -253,13 +253,3 @@ Through this project, I strengthened my skills in:
 - The business context and branding are fictional
 - Metrics are designed for demonstration purposes and may not reflect real-world complexities
 
-
-
----
-
-
-
-## Author
-
-Rishabh Dua
-
